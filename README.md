@@ -1,2 +1,2 @@
 # portfolio
-Sejun's portfolio
+ Ellie's portfolio
